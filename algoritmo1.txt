@@ -1,4 +1,4 @@
 Ler X
 Ler Y
-X + Y = Soma
+Soma = X + Y
 Escreva Soma
