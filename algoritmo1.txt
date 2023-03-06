@@ -1,0 +1,3 @@
+Ler X
+Ler Y
+Fazer X + Y = Soma
