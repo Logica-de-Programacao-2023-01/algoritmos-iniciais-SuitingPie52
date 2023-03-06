@@ -1,3 +1,4 @@
 Ler X
 Ler Y
-Fazer X + Y = Soma
+X + Y = Soma
+Escreva Soma
