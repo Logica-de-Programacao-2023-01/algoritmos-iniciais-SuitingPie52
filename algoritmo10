@@ -1,0 +1,4 @@
+ler peso
+ler valor
+var resultado_media = (peso * valor / peso)
+escreva resultado_media
