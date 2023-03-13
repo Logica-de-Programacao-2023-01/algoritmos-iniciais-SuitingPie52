@@ -1,4 +1,10 @@
-ler peso
-ler valor
-var resultado_media = (peso * valor / peso)
-escreva resultado_media
+ler lista_numeros
+ler lista_pesos
+var somatorio = 0
+var somatorio_pesos = 0
+para cada elemento da lista_numeros, faça:
+  somatorio = somatorio + (elemento_atual * peso_correspondente)
+para cada elemento da lista_pesos, faça:
+  somatorio_pesos = somatorio_pesos + elemento_atual
+resultado = somatorio / somatorio_pesos
+escreva resultado
