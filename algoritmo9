@@ -1,0 +1,7 @@
+leia capital_inicial
+leia taxa_juros
+leia tempo
+var resultado = capital_inicial
+para todos os valores entre 1 e tempo faça:
+resultado = resultado * (1+taxa_juros)
+escreva o resultado

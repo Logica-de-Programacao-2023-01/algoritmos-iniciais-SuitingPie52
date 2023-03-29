@@ -1,0 +1,4 @@
+Ler X
+Ler Y
+Soma = X + Y
+Escreva Soma
